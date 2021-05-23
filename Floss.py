@@ -1,3 +1,4 @@
+#This is outdated
 im1 = gt_image
 im2 = out_image
 
